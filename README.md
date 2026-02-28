@@ -1,7 +1,6 @@
-# github-workflow.
+# github-workflow
 
 To improve is to change.
-# github-workflow
 
 All that you change, changes you.
 
